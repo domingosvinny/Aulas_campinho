@@ -14,11 +14,11 @@
 <br>
  
 ## ⚙️ Como Usar
-<h4>O site é bem organizado e instrutivo para utilização do usuário.<h4/>
+<h4>O site é simples, bem organizado e instrutivo para uso do usuário.<h4/>
 <br>
 
  ## 💼 Contribuições
- <h4>Desenvolvido para troca de informações e experiências, com usuários que tenham interesse em ingressar na área de tecnologia. <h4/>
+ <h4>Desenvolvido para troca de informações e experiências, com usuários que tenham interesse em ingressar na área de tecnologiae programação. <h4/>
  <br>
 
 
