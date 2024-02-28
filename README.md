@@ -1,4 +1,6 @@
-<h1> Colocando em Prática! </h>
+![Frame-125_resized](https://github.com/domingosvinny/Aulas_campinho/assets/160977762/9dbf4565-06b8-497f-b4d5-b8cf5d160bc3)
+
+<h1> Colocando em Prática! </h> 
 
 > Status: developing ⚠️
 
