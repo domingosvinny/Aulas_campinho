@@ -1,29 +1,34 @@
 ![Frame-125_resized](https://github.com/domingosvinny/Aulas_campinho/assets/160977762/9dbf4565-06b8-497f-b4d5-b8cf5d160bc3)
 
-<h1> Colocando em Prática! </h> 
+<h1> RD/FD - Registro Diário de um Front-End! </h1>
 
 > Status: developing ⚠️
+<br>
 
-### Atualmente estou desenvolvendo meus projetos e aplicações iniciais, através dos conteúdos estudados.
+## 📝 Informações do Projeto
+<h4>É um site criado para registrar minha trajetória no mundo da programação. Com o objetivo de compartilhar duvidas, erros e acertos. <h4/>
+<br>
 
-## Informações básica:
-
-* 🧰Como Instalar:
-
-+ ⚙️Como usar:
-
-* 💼Contribuições:
-
-+ 📖Licença:
-
-* 💻Informações relevantes ao projeto em desenvolvimento:
-
-
-## Atividades em desenvolvimento:
-
-## Últimas atualizações:
+## 🧰 Como Instalar 
+<h4> Devido ser uma página web, basta acessar a url https://www.registrodeumfront.com.br <h4/>
+<br>
  
+## ⚙️ Como Usar
+<h4>O site é bem organizado e instrutivo para utilização do usuário.<h4/>
+<br>
 
+ ## 💼 Contribuições
+ <h4>Desenvolvido para troca de informações e experiências, com usuários que tenham interesse em ingressar na área de tecnologia. <h4/>
+ <br>
+
+
+## Atividades em Desenvolvimento:
+* Criação do Site Teste - Parte I
+
+## Últimas Atualizações:
+ + Forum de Duvidas - Aula I
+ * Aula II - (Video)
+ + Exercicios Aula II
 
 <!---
 domingosvinny/domingosvinny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
