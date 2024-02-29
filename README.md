@@ -1,5 +1,3 @@
-![Frame-125_resized](https://github.com/domingosvinny/Aulas_campinho/assets/160977762/9dbf4565-06b8-497f-b4d5-b8cf5d160bc3)
-
 <h1> RD/FD - Registro Diário de um Front-End! </h1>
 
 > Status: developing ⚠️
@@ -7,7 +5,9 @@
 
 ## 📝 *Informações do Projeto*
 <h4>É um site criado para registrar minha trajetória no mundo da programação. Com o objetivo de compartilhar duvidas, erros e acertos. </h4>
+<h4> <h3>atualização: </h3>  Podendo agora varios estudantes se cadastrarem, com um ranking de pontuação baseadas nas atividades feitas, fórum para tirar duvidas um do outro, e com chat para enteragir com colegas.<h4> 
 <br>
+ 
 
 ## 🧰 *Como Instalar*
 <h4> Devido ser uma página web, basta acessar a url https://www.registrodeumfront.com.br </h4>
@@ -36,3 +36,6 @@
 domingosvinny/domingosvinny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Colaboladores
+Wilton Jr.  🧑🏽‍💻
