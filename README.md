@@ -6,29 +6,31 @@
 <br>
 
 ## 📝 *Informações do Projeto*
-<h4>É um site criado para registrar minha trajetória no mundo da programação. Com o objetivo de compartilhar duvidas, erros e acertos. <h4/>
+<h4>É um site criado para registrar minha trajetória no mundo da programação. Com o objetivo de compartilhar duvidas, erros e acertos. </h4>
 <br>
 
 ## 🧰 *Como Instalar*
-<h4> Devido ser uma página web, basta acessar a url https://www.registrodeumfront.com.br <h4/>
+<h4> Devido ser uma página web, basta acessar a url https://www.registrodeumfront.com.br </h4>
 <br>
  
 ## ⚙️ *Como Usar*
-<h4>O site é simples, bem organizado e instrutivo para uso do usuário.<h4/>
+<h4>O site é simples, bem organizado e instrutivo para uso do usuário.</h4>
 <br>
 
  ## 💼 *Contribuições*
- <h4>Desenvolvido para troca de informações e experiências, com usuários que tenham interesse em ingressar na área de tecnologiae programação. <h4/>
+ <h4>Desenvolvido para troca de informações e experiências, com usuários que tenham interesse em ingressar na área de tecnologiae programação. </h4>
  <br>
 
 
 ## *Atividades em Desenvolvimento:*
-* Criação do Site Teste - Parte I
+<a href="https://www.google.com"> Criação do Site Teste - Parte I </a>
 
 ## *Últimas Atualizações:*
- + Forum de Duvidas - Aula I
- * Aula II - (Video)
- + Exercicios Aula II
+  <a href="https://www.google.com"> Forum de Duvidas - Aula I </a>
+  <br>
+  <a href="https://www.google.com"> Aula II - (Video) </a>
+  <br>
+  <a href="https://www.google.com"> Exercicios Aula II </a>
 
 <!---
 domingosvinny/domingosvinny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
