@@ -6,7 +6,7 @@
 
 ## 📝 *Informações do Projeto*
 <h4>É um site criado para registrar minha trajetória no mundo da programação. Com o objetivo de compartilhar duvidas, erros e acertos. </h4>
-<h4> <h3>atualização: </h3>  Podendo agora varios estudantes se cadastrarem, com um ranking de pontuação baseadas nas atividades feitas, fórum para tirar duvidas um do outro, e com chat para enteragir com colegas.<h4> 
+<h4> <h3>Atualização: </h3>  Podendo agora varios estudantes se cadastrarem, com um ranking de pontuação baseadas nas atividades feitas, fórum para tirar duvidas um do outro, e com chat para enteragir com colegas.<h4> 
 <br>
  
 
