@@ -19,6 +19,12 @@
 
  ## 💼 *Contribuições*
  <h4>Desenvolvido para troca de informações e experiências, com usuários que tenham interesse em ingressar na área de tecnologiae programação. </h4>
+
+1. Fork o projeto
+2. Crie uma nova branch (`git checkout -b feature/nova-feature`)
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`)
+4. Faça push para a branch (`git push origin feature/nova-feature`)
+5. Crie um novo Pull Request
  <br>
 
 
