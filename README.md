@@ -23,14 +23,14 @@
 
 
 ## *Atividades em Desenvolvimento:*
-<a href="https://www.google.com"> Criação do Site Teste - Parte I </a>
+<a href="https://markdown.net.br/sintaxe-basica/"> Criação do Site Teste - Parte I </a>
 
 ## *Últimas Atualizações:*
-  <a href="https://www.google.com"> Forum de Duvidas - Aula I </a>
+  <a href="https://markdown.net.br/sintaxe-basica/"> Forum de Duvidas - Aula I </a>
   <br>
-  <a href="https://www.google.com"> Aula II - (Video) </a>
+  <a href="https://markdown.net.br/sintaxe-basica/"> Aula II - (Video) </a>
   <br>
-  <a href="https://www.google.com"> Exercicios Aula II </a>
+  <a href="https://markdown.net.br/sintaxe-basica/"> Exercicios Aula II </a>
 
 <!---
 domingosvinny/domingosvinny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
