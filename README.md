@@ -1,4 +1,4 @@
-dwfffdf
+ffffff
 <h1> RD/FD - Registro Diário de um Front-End! </h1>
 
 > Status: developing ⚠️
