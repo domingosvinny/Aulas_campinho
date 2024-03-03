@@ -1,4 +1,5 @@
-ffffff
+![00](https://github.com/domingosvinny/Aulas_campinho/assets/160977762/78f0cecc-2b45-43a2-a867-6c7f7f232903)
+
 <h1> RD/FD - Registro Diário de um Front-End! </h1>
 
 > Status: developing ⚠️
@@ -6,7 +7,7 @@ ffffff
 
 ## 📝 *Informações do Projeto*
 <h4>É um site criado para registrar minha trajetória no mundo da programação. Com o objetivo de compartilhar duvidas, erros e acertos. </h4>
-<h4> <h3>atualização: </h3>  Podendo agora varios estudantes se cadastrarem, com um ranking de pontuação baseadas nas atividades feitas, fórum para tirar duvidas um do outro, e com chat para enteragir com colegas.<h4> 
+<h4> <h3>Atualização: </h3>  Podendo agora varios estudantes se cadastrarem, com um ranking de pontuação baseadas nas atividades feitas, fórum para tirar duvidas um do outro, e com chat para enteragir com colegas.<h4> 
 <br>
  
 
